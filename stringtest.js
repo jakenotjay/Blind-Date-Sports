@@ -1,0 +1,2 @@
+let string = "Dear member, \n\nThe following two members have been matched:\n\nmemberOneName (memberOneEmailAddress) with the preferences memberOnePreferenceList \nmemberTwoName (memberTwoEmailAddress) with the preferences memberTwoPreferenceList \n\nPlease contact each other with the contact details listed above and decide your sport, time and place for your Triathlon Blind Date. \n\nKind Regards, \nTeam Surrey Triathlon \n\nIf you have received this email as an error please contact Jake Wilkins (Tri President) at the email address jw01170@surrey.ac.uk"
+console.log(string)
